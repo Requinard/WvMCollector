@@ -1,0 +1,9 @@
+[Core]
+Name = Testing Module
+Module = testaddon
+
+[Documentation]
+Author = David Diks
+Version = 0.1
+Website = http://ddiks.nl
+Description = Testplugin om Yapsy te testen
